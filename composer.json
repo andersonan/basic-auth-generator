@@ -1,0 +1,15 @@
+{
+  "name": "andersonan/basic-auth-generator",
+  "description": "generate .htpasswd file to path/domain/.htpasswd",
+  "authors": [
+    {
+      "name": "GaCold",
+      "email": "thonyandersonan@gmail.com"
+    }
+  ],
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "require": {}
+}
